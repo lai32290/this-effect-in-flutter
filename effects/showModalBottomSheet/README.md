@@ -30,4 +30,3 @@ On the click of a button, call the function `showModalBottomSheet`, passing `con
   }
 ```
 
-[Example of project](./)
