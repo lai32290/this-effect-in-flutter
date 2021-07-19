@@ -1,6 +1,6 @@
 <img src="../../images/showModalBottomSheet.gif" />
 
-# On the click of a button, call the function `showModalBottomSheet`, passing `context` and a `builder` function to return the Modal content:
+On the click of a button, call the function `showModalBottomSheet`, passing `context` and a `builder` function to return the Modal content:
 
 ### Example:
 
@@ -29,3 +29,5 @@
       );
   }
 ```
+
+[Example of project](./)

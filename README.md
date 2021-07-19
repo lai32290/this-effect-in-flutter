@@ -4,4 +4,4 @@ The idea of this project is to show how to achieve some visual effects in Flutte
 
 | Effect | Description |
 | ------ | ----------- |
-| <img src="images/showModalBottomSheet.gif" style="max-width: 100px" /> | Display this bottom menu |
+| <a href="effects/showModalBottomSheet"><img src="images/showModalBottomSheet.gif" style="max-width: 100px" /></a> | Display this bottom menu |
